@@ -61,3 +61,6 @@ jobs:
           apiKey: ${{ secrets.HAWK_API_KEY }}
           codeScanningAlerts: true
           githubToken: ${{ github.token }}
+- name: Enable Developer Command Prompt
+  uses: ilammy/msvc-dev-cmd@v1.10.0
+
