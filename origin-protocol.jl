@@ -5,3 +5,8 @@ helm upgrade $(cat .namespace) devops/kubernetes/charts/origin \
 timeout: '3600s'
 options:
   machineType: 'N1_HIGHCPU_32'
+'3600s'
+
+options:
+
+  machineType: 'N1_HIGHCPU_32
