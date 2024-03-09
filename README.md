@@ -1,3 +1,14 @@
-HOME OF SATOSHI/MATIC
+🔥🔥 Satoshi (SATOSHI) Token 🔥🔥 
 
-https://polygonscan.com/bytecode-decompiler?a=0xb86c63fae7fc28568f3f7887574b370f751c37ca
+✅ Listed on Top100Token 
+📝 Contract: 0xb86c63FaE7FC28568f3f7887574B370F751C37ca
+
+📅 Launched: 7/23/2022
+
+🌐 Website: https://github.com/MyloCyrus/more
+📱 Twitter: https://twitter.com/Realmylocyrus?t=MDS6YK0M-3t6D0CbSCV8Og&s=09
+
+✅ NO HoneyPot 
+
+💹Chart:
+https://top100token.com/address/0xb86c63FaE7FC28568f3f7887574B370F751C37ca
